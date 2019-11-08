@@ -1,0 +1,15 @@
+.App {
+  padding: 2em;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 50vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 1em;
+}
+
+.App-link {
+  color: #09d3ac;
+}
